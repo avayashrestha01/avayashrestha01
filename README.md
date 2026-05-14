@@ -17,7 +17,8 @@
 
 ## 📌 Projects (So Far)
 
-* 🔹 Learning projects coming soon 🚧
+* 🔹 Personal Portfolio
+* 🔹 Attack On Titan (Fan Website)
 * 🔹 Small experiments and practice code
 
 ---
