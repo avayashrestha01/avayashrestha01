@@ -19,6 +19,7 @@
 
 * 🔹 Personal Portfolio
 * 🔹 Attack On Titan (Fan Website)
+* 🔹 Netflix Clone (Frontend Only)
 * 🔹 Small experiments and practice code
 
 ---
