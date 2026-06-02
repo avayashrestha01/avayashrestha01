@@ -17,10 +17,11 @@
 
 ## 📌 Projects (So Far)
 
-* 🔹 Personal Portfolio
-* 🔹 Attack On Titan (Fan Website)
-* 🔹 Netflix Clone (Frontend Only)
-* 🔹 Small experiments and practice code
+* 🔹 [Personal Portfolio](https://avayashresthadev.netlify.app/)
+* 🔹 [Attack On Titan (Fan Website)](https://aotfans.netlify.app/)
+* 🔹 [One Piece (Fan Website)](https://opfans.netlify.app/)
+* 🔹 Netflix Clone (Frontend Only) in projects repository
+* 🔹 Small experiments and practice code in project repository
 
 ---
 
