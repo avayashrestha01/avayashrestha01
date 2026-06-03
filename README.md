@@ -26,7 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![Avaya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avayashrestha01&theme=rogue)
 ---
 
 ## 🎯 Current Focus
