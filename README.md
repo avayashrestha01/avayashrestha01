@@ -20,7 +20,7 @@
 * 🔹 [Personal Portfolio](https://avayashresthadev.netlify.app/)
 * 🔹 [Attack On Titan (Fan Website)](https://aotfans.netlify.app/)
 * 🔹 [One Piece (Fan Website)](https://opfans.netlify.app/)
-* 🔹 Netflix Clone (Frontend Only) in projects repository
+* 🔹 [Netflix Clone (Frontend Only)](https://avayashrestha01.github.io/CWH-Challanges/Project%201%20[Netflix]/)
 * 🔹 Small experiments and practice code in project repository
 
 ---
