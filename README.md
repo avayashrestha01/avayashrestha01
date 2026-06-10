@@ -20,6 +20,7 @@
 * 🔹 [Personal Portfolio](https://avayashrestha01.github.io/portfolio/)
 * 🔹 [Attack On Titan (Fan Website)](https://avayashrestha01.github.io/AOT/)
 * 🔹 [One Piece (Fan Website)](https://avayashrestha01.github.io/onepiece/)
+* 🔹 [Green Portfolio](https://avayashrestha01.github.io/greenPortfolio/)
 * 🔹 [Netflix Clone (Frontend Only)](https://avayashrestha01.github.io/CWH-Challanges/Project%201%20[Netflix]/)
 * 🔹 Small experiments and practice code in project repository
 
