@@ -17,9 +17,9 @@
 
 ## 📌 Projects (So Far)
 
-* 🔹 [Personal Portfolio](https://avayashresthadev.netlify.app/)
-* 🔹 [Attack On Titan (Fan Website)](https://aotfans.netlify.app/)
-* 🔹 [One Piece (Fan Website)](https://opfans.netlify.app/)
+* 🔹 [Personal Portfolio](https://avayashrestha01.github.io/portfolio/)
+* 🔹 [Attack On Titan (Fan Website)](https://avayashrestha01.github.io/aot/)
+* 🔹 [One Piece (Fan Website)](https://avayashrestha01.github.io/onepiece/)
 * 🔹 [Netflix Clone (Frontend Only)](https://avayashrestha01.github.io/CWH-Challanges/Project%201%20[Netflix]/)
 * 🔹 Small experiments and practice code in project repository
 
